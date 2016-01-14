@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<guiModes>
+  <guiMode id="0" name="Standard" />
+  <guiMode id="1" name="Image right top" />
+  <guiMode id="2" name="Image right middle" />
+  <guiMode id="3" name="Image right bottom" />
+  <guiMode id="4" name="Image left top" />
+  <guiMode id="5" name="Image left middle" />
+  <guiMode id="6" name="Image left bottom" />
+  <guiMode id="7" name="Image center top" />
+  <guiMode id="8" name="Image center bottom" />
+  <guiMode id="9" name="Image fill text left top" />
+  <guiMode id="10" name="Image fill text left middle" />
+  <guiMode id="11" name="Image fill text left bottom" />
+  <guiMode id="12" name="Image fill text center top" />
+  <guiMode id="13" name="Image fill text center middle" />
+  <guiMode id="14" name="Image fill text center bottom" />
+  <guiMode id="15" name="Image fill text right top" />
+  <guiMode id="16" name="Image fill text right middle" />
+  <guiMode id="17" name="Image fill text right bottom" />
+  <guiMode id="18" name="Title" />
+  <guiMode id="19" name="Text only" />
+  <guiMode id="20" name="Fullscreen" />
+  <guiMode id="21" name="Fullscreen fill" />
+</guiModes>

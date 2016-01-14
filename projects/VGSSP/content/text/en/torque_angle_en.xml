@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<moduleTextFile>
+  <chunk textType="description" instance="1" vAlign="top">
+    <textFormat font="Arial" size="10" color="#000000" align="left">Angle tightening</textFormat>
+  </chunk>
+  <chunk textType="page" instance="1" vAlign="top">
+    <textFormat font="Arial" size="13" color="#000000" align="left" bold="true">Angle tightening</textFormat>
+    <textFormat font="Arial" size="10" color="#000000" align="left">
+      <br />
+      <br />On certain screws you have to tighten with a low torque using a torque wrench and ...</textFormat>
+  </chunk>
+  <chunk textType="page" instance="2" vAlign="top">
+    <textFormat font="Arial" size="10" color="#000000" align="left">...after that tighten with the correct angle.<br /><br /></textFormat>
+  </chunk>
+  <chunk textType="keyPoints" instance="1" vAlign="top">
+    <textFormat font="Arial" size="10" color="#000000" align="left" bullet="true">Two steps <br />Low torque  <br />Angle tightening<br /></textFormat>
+  </chunk>
+  <chunk textType="workingProcedure" instance="1" vAlign="top">
+    <textFormat font="Arial" size="10" color="#000000" align="left">Explain the difference between torque and angle tightening.<br /><br />Show them how to do angle tightening. <br /><br />Let the participants do the angle tightening.</textFormat>
+  </chunk>
+  <chunk textType="additionalInformation" instance="1" vAlign="top">
+    <textFormat font="Arial" size="10" color="#000000" align="left">A screw joint shall always be tightened with the correct torque according to the specification. <br />The pre-stress that is build up in the screw joint gives the clamping force. The clamping force gives the friction between two components, which holding them together  <br /><br />To give the screw joint reinforcement a determined pre stressing force it is possible to turn the screw/nut with a certain angle. This method gives a nearly absolute safety since the screw is tightened close to its own yield point.<br /><br />Explain what happens if the screw is over tightened or too much angle tightening is applied.<br /><br />Use the angle tightening to ensure that you get the correct clamping force without having to retighten later on.</textFormat>
+  </chunk>
+</moduleTextFile>

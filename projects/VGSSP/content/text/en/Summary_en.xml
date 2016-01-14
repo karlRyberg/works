@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<moduleTextFile>
+  <chunk textType="description" instance="1" vAlign="top">
+    <textFormat font="Arial" size="10" color="#000000" align="left" bold="true">Course summary</textFormat>
+  </chunk>
+  <chunk textType="page" instance="1" vAlign="top">
+    <textFormat font="Arial" size="13" color="#000000" align="left" bold="true">Course summary<br /></textFormat>
+    <textFormat font="Arial" size="10" color="#000000" align="left" bold="true">
+      <br />In this course we have gone through</textFormat>
+    <textFormat font="Arial" size="10" color="#000000" align="left">
+      <br />
+    </textFormat>
+    <textFormat font="Arial" size="10" color="#000000" align="left" bullet="true">Course content (overview)<br />Course objectives<br />Torque tightening in a correct way<br />Angle tightening<br />Applying silicon<br />Adjusting of engine brake<br />Screw tightening order<br />Oil filter change<br />Engine harness and connectors<br />Fuel filter change<br />Bleeding of the fuel system<br />Control of a turbo charger<br />Replace the coolant filter <br />Coolant pump control <br />Drive belt</textFormat>
+    <textFormat font="Arial" size="10" color="#000000" align="left" bold="true" bullet="true">
+      <br />
+    </textFormat>
+  </chunk>
+  <chunk textType="keyPoints" instance="1" vAlign="top">
+    <textFormat font="Arial" size="10" color="#000000" align="left" bullet="true">Course summary<br />Course evaluation<br /></textFormat>
+  </chunk>
+  <chunk textType="workingProcedure" instance="1" vAlign="top">
+    <textFormat font="Arial" size="10" color="#000000" align="left" bullet="true">The last part of the course begins with a short gathering and an opportunity to ask questions.<br />Go through the course summary, what has been covered.<br />Ask for "first impressions", any questions, anything unclear etc.<br />Hand out and ask students to fill in course evaluation. This should take about 20 minutes to complete. Inform the participants that they can remain anonymous if they like but if anyone has any comments their signature would be appreciated, although not absolutely necessary. <br />Finish off by thanking the participants for the interest they have shown and where appropriate, hand out their mechanic's passes, diplomas or presents.<br /></textFormat>
+  </chunk>
+  <chunk textType="additionalInformation" instance="1" vAlign="top">
+    <textFormat font="Arial" size="10" color="#000000" align="left" bold="true">
+      <br />Course evaluation</textFormat>
+    <textFormat font="Arial" size="10" color="#000000" align="left">
+      <br />The course evaluation form is meant to give the training instructor an idea of how the participants regard the training instructor and the course, and how things in the training process could be improved.</textFormat>
+  </chunk>
+  <chunk textType="txtInImg" instance="1" vAlign="middle">
+    <textFormat font="Arial" size="34" color="#FFFFFF" align="center" bold="true">COURSE SUMMARY</textFormat>
+  </chunk>
+  <txtInImg page="1" instance="1">326,85,499,66</txtInImg>
+</moduleTextFile>

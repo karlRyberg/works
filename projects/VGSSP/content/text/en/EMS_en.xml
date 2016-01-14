@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<moduleTextFile>
+  <chunk textType="page" instance="1" vAlign="top">
+    <textFormat font="Arial" size="13" color="#000000" align="left" bold="true">Cable harness</textFormat>
+    <textFormat font="Arial" size="10" color="#000000" align="left">
+      <br />
+      <br />As the EMS (Engine Management System) is a sensitive part of the engine system integrated with the vehicle electronic system. It is of outmost importance that the connectors and the clamping for the harness are in good condition.<br /></textFormat>
+  </chunk>
+  <chunk textType="description" instance="1" vAlign="top">
+    <textFormat font="Arial" size="10" color="#000000" align="left">Cable harness</textFormat>
+  </chunk>
+  <chunk textType="keyPoints" instance="1" vAlign="top">
+    <textFormat font="Arial" size="10" color="#000000" align="left" bullet="true">Following service information<br />Connector<br />Harness<br />Clamping<br /></textFormat>
+  </chunk>
+  <chunk textType="workingProcedure" instance="1" vAlign="top">
+    <textFormat font="Arial" size="10" color="#000000" align="left" bold="true">
+      <br />Engine harness and connectors</textFormat>
+    <textFormat font="Arial" size="10" color="#000000" align="left">
+      <br />The participants shall check the connectors for the sensor and clamping for the engine harness.<br /><br />This visual check is important to get the correct value from the sensors to the ECU.<br />Check for broken harness or missing clamping as well as corrosion on the outside.</textFormat>
+  </chunk>
+  <chunk textType="additionalInformation" instance="1" vAlign="top">
+    <textFormat font="Arial" size="10" color="#000000" align="left" bold="true">
+      <br />Fault that can occur if the harness or connectors do not work properly</textFormat>
+    <textFormat font="Arial" size="10" color="#000000" align="left">
+      <br />
+    </textFormat>
+    <textFormat font="Arial" size="10" color="#000000" align="left" bullet="true">Environmental problem<br />High fuel consumption<br />Derating<br />Non-erasable fault codes</textFormat>
+    <textFormat font="Arial" size="12" color="#000000" align="left" bullet="true">
+      <br />
+    </textFormat>
+  </chunk>
+</moduleTextFile>

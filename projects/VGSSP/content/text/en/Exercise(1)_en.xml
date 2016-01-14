@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<moduleTextFile>
+  <chunk textType="page" instance="1" vAlign="top">
+    <textFormat font="Arial" size="10" color="#000000" align="left" bold="true">Why do you have to tighten the cylinder head in a certain sequence? (one is correct)<br /></textFormat>
+    <textFormat font="Arial" size="10" color="#000000" align="left">
+      <br />1. From centre and out in order not to jam the gasket.<br />2. From out to centre in order not to jam the gasket.<br />3. From left to right in order not to jam the gasket.<br /></textFormat>
+  </chunk>
+  <chunk textType="description" instance="1" vAlign="top">
+    <textFormat font="Arial" size="10" color="#000000" align="left">Check question 2</textFormat>
+  </chunk>
+  <chunk textType="keyPoints" instance="1" vAlign="top">
+    <textFormat font="Arial" size="10" color="#000000" align="left" bullet="true">Question<br />Answer<br /></textFormat>
+  </chunk>
+  <chunk textType="workingProcedure" instance="1" vAlign="top">
+    <textFormat font="Arial" size="10" color="#000000" align="left">Discuss the answers with the participants if there have been any misunderstandings or linguistic problems. Questions that could help to improve the format of the questionnaire in the future may arise.<br /><br />Let each participant work with the question for about 2-3 min.<br />After that the trainer shall go through the correct answer.</textFormat>
+  </chunk>
+  <chunk textType="additionalInformation" instance="1" vAlign="top">
+    <textFormat font="Arial" size="10" color="#000000" align="left" bold="true">
+      <br />Correct answer<br /></textFormat>
+    <textFormat font="Arial" size="10" color="#000000" align="left">1. From centre and out in order not to jam the gasket. *<br />2. From out to centre in order not to jam the gasket.<br />3. From left to right in order not to jam the gasket.</textFormat>
+  </chunk>
+  <chunk textType="txtInImg" instance="1" vAlign="middle">
+    <textFormat font="Arial" size="48" color="#C0C0C0" align="center" bold="true">Check question 2</textFormat>
+  </chunk>
+  <chunk textType="txtInImg" instance="2" vAlign="middle">
+    <textFormat font="Arial" size="48" color="#000000" align="center" bold="true">Check question 2</textFormat>
+  </chunk>
+  <txtInImg page="1" instance="1">81,200,630,272</txtInImg>
+  <txtInImg page="1" instance="2">77,196,630,272</txtInImg>
+</moduleTextFile>

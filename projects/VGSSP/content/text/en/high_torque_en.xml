@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<moduleTextFile>
+  <chunk textType="description" instance="1" vAlign="top">
+    <textFormat font="Arial" size="10" color="#000000" align="left">How to torque correctly</textFormat>
+  </chunk>
+  <chunk textType="page" instance="1" vAlign="top">
+    <textFormat font="Arial" size="13" color="#000000" align="left" bold="true">How to torque correctly</textFormat>
+    <textFormat font="Arial" size="10" color="#000000" align="left">
+      <br />
+      <br />Screw connections, next to welding, riveting and gluing, are the most common connections applied in the industry. Among others, Volvo is using different types of screw connections in assembling of the truck. In order to tighten' the screw in a correct way, we use torque. Torque is the product of the force applied on a screw and the length of the lever arm acting to rotate the screw (distance from the point of application to the centre of rotation).<br /><br />TORQUE = force x distance from the point of application.<br /><br />If we want to apply the specified torque, we are using a torque wrench.</textFormat>
+  </chunk>
+  <chunk textType="page" instance="2" vAlign="top">
+    <textFormat font="Arial" size="10" color="#000000" align="left">If you tighten the screw too hard you are going to break it because you overtighten it.</textFormat>
+  </chunk>
+  <chunk textType="keyPoints" instance="1" vAlign="top">
+    <textFormat font="Arial" size="10" color="#000000" align="left" bullet="true">Torque = force * distance <br />Newton (force) = N<br />m (distance) = meter <br />Nm = Newton * meter<br /></textFormat>
+  </chunk>
+  <chunk textType="workingProcedure" instance="1" vAlign="top">
+    <textFormat font="Arial" size="10" color="#000000" align="left">Show them different torque wrenches and how to use them.<br />Let the participants use the torque wrench correcty and explain what happens if they use it incorrectly. <br />Let each participant tighten a screw (M8) to correct torque and let them understand what happens with the screw if they over tighten it. <br /><br />Show the list of tightening torques Group 20 General and explain the function of it.<br /></textFormat>
+  </chunk>
+  <chunk textType="additionalInformation" instance="1" vAlign="top">
+    <textFormat font="Arial" size="10" color="#000000" align="left">Show the participants screws that have been over tightened. <br /><br />A screw joint shall always be tightened with the correct torque according to the specification. <br />The prestress that is built up in the screw joint, gives the clamping force. The clamping force gives the friction between two components, which holding them together  <br /><br />One aim of this training is to align basic information about screw connections so they can be executed correctly according to criterion for screw and nut as well as their correct operations. Screw connections are discussed about their properties, types, torques, intensity of stress, deformations and faults of screw mountings.    <br /><br />The force is measured in N (Newton) and length in m (metres). This means that the product of force and length, the torque, will have the unit Nm (Newton meter).<br /><br />If we would like to have a given torque on an object, we could achieve that by using different lever length, we need more or less force on a shorter or longer lever arm to achieve the same torque.</textFormat>
+  </chunk>
+  <chunk textType="tooltip" instance="1" vAlign="top">
+    <textFormat font="Arial" size="10" color="#000000" align="left">Screw with different torque deformation to show the participants.</textFormat>
+  </chunk>
+</moduleTextFile>
