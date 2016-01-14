@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<moduleTextFile>
+  <chunk textType="page" instance="1" vAlign="top">
+    <textFormat font="Arial" size="13" color="#000000" align="left" bold="true">Engine history</textFormat>
+    <textFormat font="Arial" size="10" color="#000000" align="left">
+      <br />
+      <br />We shall look at the diesel engine range on the engine that we have today. Volvo have engines in a range from 240 horsepower and up to 660 horsepower. The cylinder volume is between 7 litres and up to 16 litres.<br /><br />The smallest engine is the D7E and it was launched in 2006...</textFormat>
+  </chunk>
+  <chunk textType="page" instance="2" vAlign="top">
+    <textFormat font="Arial" size="10" color="#000000" align="left">...the next engine in range is the D9 engine...</textFormat>
+  </chunk>
+  <chunk textType="page" instance="3" vAlign="top">
+    <textFormat font="Arial" size="10" color="#000000" align="left">...and the D11 engine, launched in 2008...</textFormat>
+  </chunk>
+  <chunk textType="page" instance="4" vAlign="top">
+    <textFormat font="Arial" size="10" color="#000000" align="left">... we have also the D13 engine. This engine was launched in 2005 and the biggest of them all is...</textFormat>
+  </chunk>
+  <chunk textType="page" instance="5" vAlign="top">
+    <textFormat font="Arial" size="10" color="#000000" align="left">...the D16 and this is also the most powerful of them all.</textFormat>
+  </chunk>
+  <chunk textType="description" instance="1" vAlign="top">
+    <textFormat font="Arial" size="10" color="#000000" align="left">Engine range</textFormat>
+  </chunk>
+  <chunk textType="keyPoints" instance="1" vAlign="top">
+    <textFormat font="Arial" size="10" color="#000000" align="left" bullet="true">Range<br />D7E <br />D9<br />D11<br />D13<br />D16<br /></textFormat>
+  </chunk>
+  <chunk textType="workingProcedure" instance="1" vAlign="top">
+    <textFormat font="Arial" size="10" color="#000000" align="left">Talk with the participants about the Volvo engine range.<br /><br />Explain why we have overlap for different engines power and torque.<br />There is overlapping of different engine powers and torques. That has to do with different taxation in different markets. Some markets have tax depending on power other markets set the tax depending on volume.</textFormat>
+  </chunk>
+  <chunk textType="additionalInformation" instance="1" vAlign="top">
+    <textFormat font="Arial" size="10" color="#000000" align="left">Go through the information shown in the additional information. </textFormat>
+  </chunk>
+</moduleTextFile>

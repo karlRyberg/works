@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<moduleTextFile>
+  <chunk textType="page" instance="1" vAlign="top">
+    <textFormat font="Arial" size="13" color="#000000" align="left" bold="true">Adjusting of the valves and engine brake</textFormat>
+    <textFormat font="Arial" size="10" color="#000000" align="left" bold="true">
+      <br />
+    </textFormat>
+    <textFormat font="Arial" size="10" color="#000000" align="left">
+      <br />After this part you shall be familiar with the difference between Volvo engine brakes.<br /><br />Adjustment of the engine brake shall be done together with adjusting of the other valves.<br />If the exhaust valves are not adjusted correctly, the adjustment for VEB, VEB+ and JAK is not going to be correct.<br />Read the service information for the correct way to adjust.</textFormat>
+  </chunk>
+  <chunk textType="description" instance="1" vAlign="top">
+    <textFormat font="Arial" size="10" color="#000000" align="left">Adjusting of the valves and engine brake</textFormat>
+  </chunk>
+  <chunk textType="keyPoints" instance="1" vAlign="top">
+    <textFormat font="Arial" size="10" color="#000000" align="left" bullet="true">Specifications<br />Impact<br />Feeler gauge<br />Dial gauge<br />Angle tool/Protractor (JAK)<br /></textFormat>
+  </chunk>
+  <chunk textType="workingProcedure" instance="1" vAlign="top">
+    <textFormat font="Arial" size="10" color="#000000" align="left">Because of the extreme importance and need for care whilst carrying out adjustment combined with how easy it is to make an incorrect adjustment, each participant should carry out a complete adjustment for one cylinder under the watchful eye of the trainer. The following operations are included: alignment and set up of the camshaft markings, adjustment of the valve yoke, adjustment of the inlet valves, adjustment of the exhaust valves, adjustment of the unit injectors.<br /><br />This information can be different depending on which engine you are working on. Show the participants the correct information.</textFormat>
+  </chunk>
+</moduleTextFile>

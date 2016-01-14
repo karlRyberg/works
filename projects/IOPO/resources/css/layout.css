@@ -1,0 +1,194 @@
+﻿html
+{
+    overflow: hidden;
+}
+body
+{
+    overflow: hidden;
+    font-family: volvo_sans_proregular;
+    white-space: nowrap;
+    -webkit-text-size-adjust: 100%;
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    cursor: default;
+}
+#stage
+{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+}
+#preloader
+{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background-color: White;
+}
+#io-work-area
+{
+    position: absolute;
+    width: 300%;
+    height: 100%;
+}
+#truck-area
+{
+    position: relative;
+    width: 100%;
+    height: 100%;
+}
+
+.io-page
+{
+    position: relative;
+    width: 33.33%;
+    height: 100%;
+    float: left;
+}
+
+.header-button
+{
+    position: absolute;
+    font-size: 1.1em;
+    text-decoration: none;
+    color: #666666;
+    background-repeat: no-repeat;
+    line-height: 24px;
+}
+
+.header-panel
+{
+    position: absolute;
+    width: 100%;
+    height: 80px;
+    right: 0px;
+    top: 0px;
+}
+
+.header-title
+{
+    position:absolute;
+    font-size: 1.5em;
+    line-height: 22px;
+    text-align: right;
+}
+
+#truck-screen-title
+{
+    bottom:10px;
+    right:0px;
+    color:#666666;
+    padding-right: 10px;
+}
+
+
+#view-screen-title
+{
+    bottom:10px;
+    left:0px;
+    color:White;
+    padding-left: 10px;
+}
+
+#explore-screen-title
+{
+    bottom:10px;
+    left:0px;
+    color:White;
+    padding-left: 10px;
+}
+
+#view-selector-button
+{
+    right: 0px;
+    padding: 10px 40px 6px 10px;
+    background-position: center right;
+    background-image: url('../images/btn-arrow-right.png');
+    text-align: right;
+}
+
+.back-button
+{
+    left: 0px;
+    padding: 10px 10px 6px 40px;
+    background-position: center left;
+    background-image: url('../images/btn-arrow-left.png');
+    text-align: left;
+    color:White;
+}
+
+#truck-screen-header
+{
+    border-right: 6px solid #5f9877;
+}
+
+#view-screen-header
+{
+    background-color: #5f9877;
+}
+#explore-screen-header
+{
+    background-color: #5f9877;
+}
+
+#explore-selector-panel
+{
+    position: absolute;
+    bottom: 10px;
+    right: 10px;
+    width: 40px;
+    height: 40px;
+    overflow: hidden;
+}
+
+#explore-selector-button
+{
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    width: 40px;
+    height: 40px;
+    background-color: #5f9877;
+    background-image: url('../images/btn-browse-icon.png');
+    background-position: center right;
+    background-repeat: no-repeat;
+    color: White;
+}
+
+#explore-selector-label
+{
+    position: absolute;
+    bottom: 0px;
+    right: 0px;
+    line-height: 40px;
+    padding: 0px 40px 0px 10px;
+    background-color: #5f9877;
+    color: White;
+}
+
+/* Retina display icons */
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (-o-min-device-pixel-ratio: 3/2), only screen and (min--moz-device-pixel-ratio: 1.5), only screen and (min-device-pixel-ratio: 1.5)
+{
+    
+        #view-selector-button
+        {
+            background-image: url('../images/btn-arrow-right@x2.png');
+            background-size: 30px 24px;
+        }
+        #explore-selector-button
+        {
+            background-image: url('../images/btn-browse-icon@x2.png');
+            background-size: 30px 24px;
+        }
+        .back-button
+        {
+            background-image: url('../images/btn-arrow-left@x2.png');
+            background-size: 30px 24px;
+        }
+}

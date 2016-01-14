@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<moduleTextFile>
+  <chunk textType="Student_1" alias="Description" instance="1" vAlign="top">
+    <textFormat font="Arial" size="10" color="#000000" align="left">Image fill text right middle</textFormat>
+  </chunk>
+  <chunk textType="Student_2" alias="Page" instance="1" vAlign="top">
+    <textFormat font="Arial" size="10" color="#000000" align="left">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque lobortis pharetra mauris, ac vehicula lorem molestie eget. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Fusce id eleifend ante. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus ultricies facilisis tortor, nec luctus mi feugiat at. Donec ullamcorper volutpat euismod. Morbi interdum luctus tristique.<br /><br />Aliquam erat volutpat. Nulla facilisi. Sed mattis iaculis lectus et varius. Aenean eget mauris ligula. Sed id risus ante, at tempor urna. Donec commodo sollicitudin egestas. Sed non mattis justo. Aenean dictum turpis non magna tristique iaculis.</textFormat>
+  </chunk>
+  <chunk textType="Trainer_1" alias="Key points" instance="1" vAlign="top">
+    <textFormat font="Arial" size="18" color="#000000" align="left" bullet="true">Lorem ipsum<br />Aliquam erat volutpat<br />Duis nec libero sit amet odio imperdiet</textFormat>
+  </chunk>
+  <chunk textType="Trainer_2" alias="Working procedure" instance="1" vAlign="top">
+    <textFormat font="Arial" size="10" color="#000000" align="left">Suspendisse tempor pulvinar urna, vitae egestas ante fringilla in. Maecenas ac tempor augue. Vestibulum id nulla mauris. Nunc nec quam ipsum, in hendrerit quam. Fusce vitae libero at tortor fringilla porta. Sed id nisl nec lectus vehicula viverra. Etiam vitae hendrerit sapien. Proin auctor, lectus ac blandit placerat, mauris mi venenatis nisl, a ornare nisl turpis sed ipsum. Maecenas posuere dictum risus, sed commodo neque venenatis eu.</textFormat>
+  </chunk>
+  <chunk textType="Trainer_3" alias="Additional information" instance="1" vAlign="top">
+    <textFormat font="Arial" size="10" color="#000000" align="left">Vestibulum mollis metus vitae justo placerat mattis. Nulla vehicula dapibus tellus, et pulvinar nisi cursus ut. Quisque iaculis pharetra purus, et euismod justo rutrum quis. Maecenas ut diam vel purus tempus luctus eu et augue. Suspendisse sit amet eros vel sem dignissim dictum. Nam arcu nibh, eleifend at convallis sed, porta faucibus ante. Praesent pellentesque, nibh nec lobortis accumsan, mauris justo eleifend quam, ac faucibus felis nisl eu ipsum. Praesent ac massa consectetur turpis blandit eleifend. Vivamus ipsum urna, mattis at tempus ut, iaculis eu ligula. Vestibulum et nulla quam. Nulla tincidunt consectetur ultricies. Sed sollicitudin laoreet est, nec molestie tellus congue et. Duis egestas dui nec magna placerat quis aliquam nibh tincidunt.</textFormat>
+  </chunk>
+</moduleTextFile>

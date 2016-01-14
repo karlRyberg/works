@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<moduleTextFile>
+  <chunk textType="page" instance="1" vAlign="top">
+    <textFormat font="Arial" size="13" color="#000000" align="left" bold="true">Control of a turbocharger</textFormat>
+    <textFormat font="Arial" size="10" color="#000000" align="left">
+      <br />
+      <br />Damage to the turbine and compressor wheels always means that they must be changed. It is also impermissible to straighten out blades which have become deformed. <br />The turbo charger must be changed if it is cracked or has been subjected to overheating.<br /><br /></textFormat>
+  </chunk>
+  <chunk textType="description" instance="1" vAlign="top">
+    <textFormat font="Arial" size="10" color="#000000" align="left">Control of a turbocharger</textFormat>
+  </chunk>
+  <chunk textType="keyPoints" instance="1" vAlign="top">
+    <textFormat font="Arial" size="10" color="#000000" align="left" bullet="true">Axial play<br />Radial play<br />Visual check<br />Intercooler<br /></textFormat>
+  </chunk>
+  <chunk textType="workingProcedure" instance="1" vAlign="top">
+    <textFormat font="Arial" size="10" color="#000000" align="left">Go through the information below. Show the participants how they shall do it. </textFormat>
+  </chunk>
+  <chunk textType="additionalInformation" instance="1" vAlign="top">
+    <textFormat font="Arial" size="10" color="#000000" align="left" bold="true">Control of turbocharger, visual</textFormat>
+    <textFormat font="Arial" size="10" color="#000000" align="left">
+      <br />Check that the turbine or compressor wheel does not scrape against the housing when the wheel is lifted on the shaft at the same time as it is turned. If the turbine or compressor wheels scrape against the housing, the turbocharger should be replaced</textFormat>
+  </chunk>
+</moduleTextFile>

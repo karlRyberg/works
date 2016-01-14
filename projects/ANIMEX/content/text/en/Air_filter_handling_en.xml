@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<moduleTextFile>
+  <chunk textType="page" instance="1" vAlign="top">
+    <textFormat font="Arial" size="13" color="#000000" align="left" bold="true">Replace the air filter</textFormat>
+    <textFormat font="Arial" size="10" color="#000000" align="left">
+      <br />
+      <br />The following general directions apply:<br />The air cleaner filter insert may only be removed for replacement. <br />Replacement must be carried out at the specified service intervals (refer to function group 17) or when the pressure warning light comes on. <br />Filter inserts must not be cleaned. <br />The filter element must not be taken out for inspection, cleaning, etc., as dust and particles of dirt will always get into the pure side of the intake system when the filter is disturbed.<br />Any attempts at cleaning such as shaking, blowing with compressed air, etc., will always entail a change in the structure of the filter surface and result in deterioration in its efficiency.</textFormat>
+  </chunk>
+  <chunk textType="description" instance="1" vAlign="top">
+    <textFormat font="Arial" size="10" color="#000000" align="left">Replace the air filter</textFormat>
+  </chunk>
+  <chunk textType="keyPoints" instance="1" vAlign="top">
+    <textFormat font="Arial" size="10" color="#000000" align="left" bullet="true">Air filter<br />Compressed air<br /></textFormat>
+  </chunk>
+  <chunk textType="workingProcedure" instance="1" vAlign="top">
+    <textFormat font="Arial" size="10" color="#000000" align="left">This information can be different depending on which engine you are working on. Show the correct information to the participants in Impact.</textFormat>
+  </chunk>
+</moduleTextFile>

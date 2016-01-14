@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<moduleTextFile>
+  <chunk textType="description" instance="1" vAlign="top">
+    <textFormat font="Arial" size="10" color="#000000" align="left">Course content</textFormat>
+  </chunk>
+  <chunk textType="page" instance="1" vAlign="top">
+    <textFormat font="Arial" size="13" color="#000000" align="left" bold="true">Course content</textFormat>
+    <textFormat font="Arial" size="10" color="#000000" align="left">
+      <br />
+      <br />To ensure that you as a technician have the basic knowledge needed to understand constructional features of the Volvo engines components and systems.<br />Fully understand effects of incorrect adjustments and the course will cover practical exercises and a theoretical summary for each group shown below.<br /><br /></textFormat>
+    <textFormat font="Arial" size="10" color="#000000" align="left" bullet="true">History/Engine range <br />General/Basic Principles<br />Lubrication systems<br />Engine Management System<br />Fuel systems<br />Intake &amp; Exhaust systems<br />Cooling systems<br /></textFormat>
+  </chunk>
+  <chunk textType="keyPoints" instance="1" vAlign="top">
+    <textFormat font="Arial" size="10" color="#000000" align="left" bullet="true">Course content<br />Practical exercises<br />Theoretical summary<br />Course schedule<br /></textFormat>
+  </chunk>
+  <chunk textType="workingProcedure" instance="1" vAlign="top">
+    <textFormat font="Arial" size="10" color="#000000" align="left">Go through Course content (overview).<br />Explain briefly what the different subjects will include - give examples.<br />Explain that each practical session will start with theory and after that there will be a practical session. <br />Test questions are also included.<br />Remind the participants that later there will be a written test to complete the course.<br />Go through the schedule.</textFormat>
+  </chunk>
+  <chunk textType="additionalInformation" instance="1" vAlign="top">
+    <textFormat font="Arial" size="10" color="#000000" align="left">Course guide</textFormat>
+  </chunk>
+  <chunk textType="txtInImg" instance="1" vAlign="middle">
+    <textFormat font="Arial" size="34" color="#FFFFFF" align="center" bold="true">COURSE CONTENT</textFormat>
+  </chunk>
+  <txtInImg page="1" instance="1">326,85,499,66</txtInImg>
+</moduleTextFile>

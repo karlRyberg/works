@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<moduleTextFile>
+  <chunk textType="description" instance="1" vAlign="top">
+    <textFormat font="Arial" size="10" color="#000000" align="left">Replace the coolant filter</textFormat>
+  </chunk>
+  <chunk textType="keyPoints" instance="1" vAlign="top">
+    <textFormat font="Arial" size="10" color="#000000" align="left" bullet="true">Warm coolant <br />Follow information on the filter and Impact<br />Take care of old coolant and filter in a correct way<br /></textFormat>
+  </chunk>
+  <chunk textType="additionalInformation" instance="1" vAlign="top">
+    <textFormat font="Arial" size="10" color="#000000" align="left">Coolant filter, part number 1699830, has been replaced by part number 20532237.<br />The new coolant filter, 20532237, has a red protection sticker inside the threads. It MUST be removed BEFORE the filter is mounted.<br />The filter has also a warning label mounted on the plastic protection shield identification: New filter has part number + a 10 mm line on the top. Old filter had part number + a 1 mm line on the top.</textFormat>
+  </chunk>
+  <chunk textType="workingProcedure" instance="1" vAlign="top">
+    <textFormat font="Arial" size="10" color="#000000" align="left">Following the service information in Impact regarding the correct truck/engine.<br />This information can be different depending on which engine you are working on. Show the correct information to the participants from Impact. </textFormat>
+  </chunk>
+  <chunk textType="page" instance="1" vAlign="top">
+    <textFormat font="Arial" size="13" color="#000000" align="left" bold="true">Replace the coolant filter</textFormat>
+    <textFormat font="Arial" size="13" color="#000000" align="left">
+      <br />
+    </textFormat>
+    <textFormat font="Arial" size="10" color="#000000" align="left">
+      <br />When replacing the coolant filter it is important to take care of the environmental issue as well, the used coolant and filter must be disposed in an proper way.<br /></textFormat>
+  </chunk>
+</moduleTextFile>

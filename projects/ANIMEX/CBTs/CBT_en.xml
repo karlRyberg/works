@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cbtTree>
+  <cbtInfo>
+    <name>Animationer &amp; Illustrationer</name>
+  </cbtInfo>
+  <course ID="1" label="Kylsystem" icon="courseIcon" properties="[#slideShow: 0, #repeat: 0, #fullScreen: 0, #printing: 1, #hidden: 0, #guiMode: 'Textplate', #stretch: 1, #slideTime: 5, #EstTime: 120, #courseCode: #, #courseCategory: , #isVideo: 0, #isKnowledgeTest: 0, #bgColor: FFFFFF, #isAnimation: 1, #autoStartSWF: 0]" UID="a1fbed4e-df78-4ff1-ae7f-4a50ced0fd8f">
+	<module ID="2" icon="moduleIcon" source="GT180000B_07.swf" properties="[#width: 550, #height: 400]" UID="2d8a1706-95b2-4b40-953d-d34af12dcb84" />
+	<module ID="3" icon="moduleIcon" source="GT180000B_08.swf" properties="[#width: 550, #height: 400]" UID="2d8a1706-95b2-4b40-953d-d34af12dcb85" />
+	<module ID="4" icon="moduleIcon" source="GT180000B_14.swf" properties="[#width: 550, #height: 400]" UID="2d8a1706-95b2-4b40-953d-d34af12dcb87" />
+	<module ID="5" icon="moduleIcon" source="GT180000B_15.swf" properties="[#width: 550, #height: 400]" UID="2d8a1706-95b2-4b40-953d-d34af12dcb88" />
+	<module ID="6" icon="moduleIcon" source="GT180000B_19.swf" properties="[#width: 550, #height: 400]" UID="2d8a1706-95b2-4b40-953d-d34af12dcb89" />
+	<module ID="7" icon="moduleIcon" source="GT180000B_20.swf" properties="[#width: 550, #height: 400]" UID="2d8a1706-95b2-4b40-953d-d34af12dcb10" />
+	<module ID="8" icon="moduleIcon" source="GT180000B_21.swf" properties="[#width: 550, #height: 400]" UID="2d8a1706-95b2-4b40-953d-d34af12dcb11" />
+	<module ID="9" icon="moduleIcon" source="GT180000B_22.swf" properties="[#width: 550, #height: 400]" UID="2d8a1706-95b2-4b40-953d-d34af12dcb12" />
+	<module ID="10" icon="moduleIcon" source="GT180000B_23.swf" properties="[#width: 550, #height: 400]" UID="2d8a1706-95b2-4b40-953d-d34af12dcb13" />
+  </course>
+  <course ID="11" label="Motor bildmanér" icon="courseIcon" properties="[#slideShow: 0, #repeat: 0, #fullScreen: 0, #printing: 1, #hidden: 0, #guiMode: 'Textplate', #stretch: 1, #slideTime: 5, #EstTime: 120, #courseCode: #, #courseCategory: , #isVideo: 0, #isKnowledgeTest: 0, #bgColor: FFFFFF, #isAnimation: 1, #autoStartSWF: 0]" UID="a1fbed4e-df78-4ff1-ae7f-4a50ced0fd8f">
+  <module ID="12" icon="moduleIcon" source="piston.png" properties="[#width: 3776, #height: 1462]" UID="2d8a1706-95b2-4b40-953d-d34af12dcb84" />
+	<module ID="13" icon="moduleIcon" source="anim.swf" properties="[#autoStartSWF: 1]" UID="2d8a1706-95b2-4b40-953d-d34af12dcb85" />
+	<module ID="14" icon="moduleIcon" source="crank.swf" UID="2d8a1706-95b2-4b40-953d-d34af12dcb87" />
+  </course>
+  <descriptions>
+    <description instance="1">
+      <textFormat font="Arial" size="12" color="#000000" align="left">Grundläggande kylsystem</textFormat>
+    </description>
+    <description instance="2">
+      <textFormat font="Arial" size="10" color="#000000" align="left">Högt tryck ger värme</textFormat>
+    </description>
+    <description instance="3">Lågt tryck ger kyla</description>
+    <description instance="4">
+      <textFormat font="Arial" size="10" color="#000000" align="left">Massa och energi</textFormat>
+    </description>
+    <description instance="5">
+      <textFormat font="Arial" size="10" color="#000000" align="left">Kokpunkt</textFormat>
+    </description>
+    <description instance="6">Kylsystem grund</description>
+    <description instance="7">
+      <textFormat font="Arial" size="10" color="#000000" align="left">Kylsystem cirkulation</textFormat>
+    </description>
+    <description instance="8">
+      <textFormat font="Arial" size="10" color="#000000" align="left">Högt tryck ger värme, repetition</textFormat>
+    </description>
+    <description instance="9">
+      <textFormat font="Arial" size="10" color="#000000" align="left">Kokpunkt påverkas av tryck</textFormat>
+    </description>
+    <description instance="10">
+      <textFormat font="Arial" size="10" color="#000000" align="left">Kompressor ökar effekten</textFormat>
+    </description>
+	    <description instance="11">
+      <textFormat font="Arial" size="10" color="#000000" align="left">Bildmanérr</textFormat>
+    </description>
+	    <description instance="12">
+      <textFormat font="Arial" size="10" color="#000000" align="left">Kolv och vevstake</textFormat>
+    </description>
+	    <description instance="13">
+      <textFormat font="Arial" size="10" color="#000000" align="left">Fyrtakt animation</textFormat>
+    </description>
+	    <description instance="14">
+      <textFormat font="Arial" size="10" color="#000000" align="left">Vevaxel</textFormat>
+    </description>
+  </descriptions>
+</cbtTree>

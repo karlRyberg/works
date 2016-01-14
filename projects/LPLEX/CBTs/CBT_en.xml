@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cbtTree>
+  <cbtInfo>
+    <name>GUI-mode-test</name>
+  </cbtInfo>
+  <course ID="1" label="GUI modes" icon="courseIcon" properties="[#slideShow: 0, #repeat: 0, #fullScreen: 0, #printing: 1, #pageBreakInternal: 0, #hidden: 0, #guiMode: 'Textplate', #stretch: 1, #autoStartSWF: 0, #autoStartFLV: 1, #allowNavNext: 1, #allowNavPrev: 1, #slideTime: 5, #EstTime: 120, #isAnimation: 0, #isVideo: 0, #isKnowledgeTest: 0, #bgColor: FFFFFF, #FLVbgColor: 000000, #FLVmax: 1, #actionAfterVideo: Next, #FLVplayer: , #iconLogoActive: 0, #iconLogoFile: , #iconLogoAlign: right, #aH_fontStyle: normal, #aH_fontWeight: bold, #aH_textDecoration: normal, #aH_textTransform: normal, #aH_align: center, #aH_color: 000000, #aH_src: 0, #welcomeImg: 0, #welcomeBg: 0, #welcomeWide: 0, #welcomeScale: 0, #aH_fontFamily: Arial, #aH_fontSize: 32, #autoHeadline: 0]" UID="d8c337b7-6df2-464b-8048-5be11f662e84">
+    <module ID="2" icon="moduleIcon" source="Image_1.jpg" properties="[#guiMode: 'Standard']" UID="01694122-ed35-4a7e-a81e-bbdee43a0841" />
+    <module ID="3" icon="moduleIcon" source="Image_2.jpg" properties="[#guiMode: 'Image right top']" UID="63550ec2-adb3-4735-82ea-deeba01d1dba" />
+    <module ID="4" icon="moduleIcon" source="Image_3.jpg" properties="[#guiMode: 'Image right middle']" UID="dd0aabeb-3b25-4962-add6-4a22effcc4c3" />
+    <module ID="5" icon="moduleIcon" source="Image_4.jpg" properties="[#guiMode: 'Image right bottom']" UID="9d0fd2b2-938b-4784-a27e-77c7128ae83a" />
+    <module ID="6" icon="moduleIcon" source="Image_5.jpg" properties="[#guiMode: 'Image left top']" UID="b4beff83-4b8a-4568-bfab-6d04810d24a5" />
+    <module ID="7" icon="moduleIcon" source="Image_6.jpg" properties="[#guiMode: 'Image left middle']" UID="1b988405-259c-4e50-8e35-4d34a2f6e824" />
+    <module ID="8" icon="moduleIcon" source="Image_7.jpg" properties="[#guiMode: 'Image left bottom']" UID="9e935510-4a2a-4005-98c5-9f6bc80c9693" />
+    <module ID="9" icon="moduleIcon" source="Image_8.jpg" properties="[#guiMode: 'Image center top']" UID="2925a837-bed4-4d7b-bb4e-59ec6f10c10b" />
+    <module ID="10" icon="moduleIcon" source="Image_9.jpg" properties="[#guiMode: 'Image center bottom']" UID="e9029389-bc51-459e-94cf-f8687beb5b17" />
+    <module ID="11" icon="moduleIcon" source="Image_10.jpg" properties="[#guiMode: 'Image fill text left top']" UID="862bfbb2-225f-4358-8b1a-b9e0e7f0d367" />
+    <module ID="12" icon="moduleIcon" source="Image_11.jpg" properties="[#guiMode: 'Image fill text left middle']" UID="0bf8fa74-f390-49fb-acc4-297858fceb13" />
+    <module ID="13" icon="moduleIcon" source="Image_12.jpg" properties="[#guiMode: 'Image fill text left bottom']" UID="4356febc-66c9-4040-b93e-59b19440b749" />
+    <module ID="14" icon="moduleIcon" source="Image_16.jpg" properties="[#guiMode: 'Image fill text right top']" UID="da0f2837-c7e8-4f26-9341-dcdf609f9806" />
+    <module ID="15" icon="moduleIcon" source="Image_17.jpg" properties="[#guiMode: 'Image fill text right middle']" UID="e4460044-e6d7-4794-a3c6-7782eda2a08f" />
+    <module ID="16" icon="moduleIcon" source="Image_18.jpg" properties="[#guiMode: 'Image fill text right bottom']" UID="34468cce-aebd-40c4-ada4-3d975932a132" />
+    <module ID="17" icon="moduleIcon" source="Image_19.jpg" properties="[#guiMode: 'Title']" UID="a9ddaf63-cc63-49e7-a95f-b58acb7707f8" />
+    <module ID="18" icon="moduleIcon" source="Self-test.swf" properties="[#width: 1500, #height: 1032, #guiMode: 'Self test']" UID="1f73fa29-5c6c-440c-853b-d80ec233c36d" />
+    <module ID="19" icon="moduleIcon" source="Image_20.jpg" properties="[#guiMode: 'Fullscreen']" UID="d1dd6749-97c9-4057-b755-87c1e0da881c" />
+    <module ID="20" icon="moduleIcon" source="Image_21.jpg" properties="[#guiMode: 'Fullscreen fill']" UID="37045da1-5acf-4ed6-a6dd-5e89d2d11a34" />
+  </course>
+  <descriptions>
+    <description instance="1">
+    </description>
+    <description instance="2">Standard</description>
+    <description instance="3">Image right top</description>
+    <description instance="4">Image right middle</description>
+    <description instance="5">Image right bottom</description>
+    <description instance="6">Image left top</description>
+    <description instance="7">Image left middle</description>
+    <description instance="8">Image left bottom</description>
+    <description instance="9">Image center top</description>
+    <description instance="10">Image center bottom</description>
+    <description instance="11">Image fill text left top</description>
+    <description instance="12">Image fill text left middle</description>
+    <description instance="13">Image fill text left bottom</description>
+    <description instance="14">Image fill text right top</description>
+    <description instance="15">Image fill text right middle</description>
+    <description instance="16">Image fill text right bottom</description>
+    <description instance="17">Title</description>
+    <description instance="18">Self test</description>
+    <description instance="19">Fullscreen</description>
+    <description instance="20">Fullscreen fill</description>
+  </descriptions>
+</cbtTree>

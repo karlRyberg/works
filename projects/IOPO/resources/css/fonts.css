@@ -1,0 +1,38 @@
+﻿@font-face {
+    font-family: 'volvo_sans_proregular';
+    src: url('../fonts/volvosanspro-regular-webfont.eot');
+    src: url('../fonts/volvosanspro-regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/volvosanspro-regular-webfont.woff') format('woff'),
+         url('../fonts/volvosanspro-regular-webfont.ttf') format('truetype'),
+         url('../fonts/volvosanspro-regular-webfont.svg#volvo_sans_proregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+
+
+@font-face {
+    font-family: 'volvo_sans_probold';
+    src: url('../fonts/volvosanspro-bold-webfont.eot');
+    src: url('../fonts/volvosanspro-bold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/volvosanspro-bold-webfont.woff') format('woff'),
+         url('../fonts/volvosanspro-bold-webfont.ttf') format('truetype'),
+         url('../fonts/volvosanspro-bold-webfont.svg#volvo_sans_probold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+
+
+@font-face {
+    font-family: 'volvo_sans_pro_medium';
+    src: url('../fonts/volvosanspro-medium-webfont.eot');
+    src: url('../fonts/volvosanspro-medium-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/volvosanspro-medium-webfont.woff') format('woff'),
+         url('../fonts/volvosanspro-medium-webfont.ttf') format('truetype'),
+         url('../fonts/volvosanspro-medium-webfont.svg#volvo_sans_pro_medium') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}

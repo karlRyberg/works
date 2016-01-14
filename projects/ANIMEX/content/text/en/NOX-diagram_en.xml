@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<moduleTextFile>
+  <chunk textType="page" instance="1" vAlign="top">
+    <textFormat font="Arial" size="13" color="#000000" align="left" bold="true">Engine emission</textFormat>
+    <textFormat font="Arial" size="10" color="#000000" align="left" bold="true">
+      <br />
+    </textFormat>
+    <textFormat font="Arial" size="10" color="#000000" align="left">
+      <br />Most vehicles depending on market registered from 1st October 2006 have to meet Euro 4 legislation. Euro 5 comes into force on 1st October 2009. <br /><br />The new European norms for exhaust reduction impose tough demands on all vehicle manufacturers. The difference in exhaust emission requirements between a Euro 3 and a Euro 4 engine is considerable. Emissions of nitrogen oxides (NOx) have to be cut from 5 to 3.5 g/kWh, a reduction of 30%. Particulate (PM) emissions must drop from 0.1 to 0.02 g/kWh. This corresponds to a reduction of no less than 80%.<br /><br />The diagram above shows the dramatic decrease in NOx and PM necessary to meet the Euro 4 and especially Euro 5 legislations.</textFormat>
+  </chunk>
+  <chunk textType="description" instance="1" vAlign="top">
+    <textFormat font="Arial" size="10" color="#000000" align="left">Engine emission</textFormat>
+  </chunk>
+  <chunk textType="keyPoints" instance="1" vAlign="top">
+    <textFormat font="Arial" size="10" color="#000000" align="left" bullet="true">Emission<br />EGR<br />SCR<br /></textFormat>
+  </chunk>
+  <chunk textType="workingProcedure" instance="1" vAlign="top">
+    <textFormat font="Arial" size="10" color="#000000" align="left">Talk with the participants about the Volvo engine emission.</textFormat>
+  </chunk>
+  <chunk textType="additionalInformation" instance="1" vAlign="top">
+    <textFormat font="Arial" size="10" color="#000000" align="left">Go through the information shown below. <br /><br />Stricter emission legislation has caused an increased need for exhaust aftertreatment, in order to remove harmful pollutants, such as NOx and particulates. The NOx emissions from a diesel engine are lowered by adding a reducing agent to the exhaust gas flow, such as urea or diesel fuel. The particulates are typically removed by collecting in a filter device, with continuous or periodic regeneration of the filter.<br /><br />From 1st October 2007 all new trucks, buses and coaches will be required to be fitted with on-board diagnostics which will monitor the performance of both SCR and EGR systems to ensure emission compliance during use.<br />Enforcement authorities will be able to download faults recorded on the vehicle ECU.<br /><br />Important to do the correct adjustment to get the correct emission.<br /></textFormat>
+    <textFormat font="Arial" size="10" color="#FF0000" align="left" bold="true">
+      <br />
+    </textFormat>
+    <textFormat font="Arial" size="10" color="#000000" align="left">There is more information about emissions on the violin link below.</textFormat>
+    <textFormat font="Arial" size="10" color="#FF0000" align="left" bold="true">
+      <br />
+      <br />
+    </textFormat>
+    <textFormat font="Arial" size="10" color="#0000FF" align="left" italic="true">http://violin.volvo.net/volvotechnology/corporate/en/business_functions/business_key_technology_areas</textFormat>
+  </chunk>
+</moduleTextFile>

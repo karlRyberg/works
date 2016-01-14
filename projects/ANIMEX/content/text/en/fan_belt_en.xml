@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<moduleTextFile>
+  <chunk textType="keyPoints" instance="1" vAlign="top">
+    <textFormat font="Arial" size="10" color="#000000" align="left" bullet="true">Safety<br />Impact<br /></textFormat>
+  </chunk>
+  <chunk textType="workingProcedure" instance="1" vAlign="top">
+    <textFormat font="Arial" size="10" color="#000000" align="left">This information can be different depending on which engine you are working on. Show the correct information from Impact to the participants. <br /><br />Check that none of the drive belt ribbing has fallen off. <br />Check that the drive belts do not have any cracks. The belt must be changed if there is any cracking. <br />There must not be any dirt or grease on the drive belts or belt pulley contact surfaces. <br />Check the automatic belt tensioner.</textFormat>
+  </chunk>
+  <chunk textType="page" instance="1" vAlign="top">
+    <textFormat font="Arial" size="13" color="#000000" align="left" bold="true">Drive belt check</textFormat>
+    <textFormat font="Arial" size="13" color="#000000" align="left">
+      <br />
+      <br />
+    </textFormat>
+    <textFormat font="Arial" size="10" color="#000000" align="left">Do not touch the drive belt when the engine is running.<br />Be sure that you mount the drive belt in the correctly way</textFormat>
+  </chunk>
+  <chunk textType="description" instance="1" vAlign="top">
+    <textFormat font="Arial" size="10" color="#000000" align="left">Drive belt check</textFormat>
+  </chunk>
+  <chunk textType="txtInImg" instance="1" vAlign="middle">
+    <textFormat font="Arial" size="18" color="#539B53" align="left" bold="true">Worn but ok.</textFormat>
+  </chunk>
+  <chunk textType="txtInImg" instance="2" vAlign="middle">
+    <textFormat font="Arial" size="18" color="#C40000" align="left" bold="true">Worn down to the cord, should be replaced.</textFormat>
+  </chunk>
+  <chunk textType="txtInImg" instance="3" vAlign="middle">
+    <textFormat font="Arial" size="18" color="#539B53" align="left" bold="true">Acceptable cracks.</textFormat>
+  </chunk>
+  <chunk textType="txtInImg" instance="4" vAlign="middle">
+    <textFormat font="Arial" size="18" color="#C40000" align="left" bold="true">Large cracks and parts missing, should be replaced.</textFormat>
+  </chunk>
+  <chunk textType="txtInImg" instance="5" vAlign="middle">
+    <textFormat font="Arial" size="10" color="#539B53" align="center" bold="true">Worn but ok.</textFormat>
+  </chunk>
+  <chunk textType="txtInImg" instance="6" vAlign="middle">
+    <textFormat font="Arial" size="10" color="#C40000" align="center" bold="true">Worn down to the cord, should be dissposed.</textFormat>
+  </chunk>
+  <chunk textType="txtInImg" instance="7" vAlign="middle">
+    <textFormat font="Arial" size="10" color="#539B53" align="center" bold="true">Acceptable cracks</textFormat>
+    <textFormat font="Arial" size="14" color="#539B53" align="center" bold="true">.</textFormat>
+  </chunk>
+  <chunk textType="txtInImg" instance="8" vAlign="middle">
+    <textFormat font="Arial" size="10" color="#C40000" align="center" bold="true">Large cracks and parts missing, should be dissposed.</textFormat>
+  </chunk>
+  <txtInImg page="1" instance="1">472,63,284,224</txtInImg>
+  <txtInImg page="1" instance="2">58,402,281,239</txtInImg>
+  <txtInImg page="2" instance="3">472,63,284,224</txtInImg>
+  <txtInImg page="2" instance="4">58,402,281,239</txtInImg>
+  <txtInImg page="0" instance="5">6,480,315,29</txtInImg>
+  <txtInImg page="0" instance="6">199,624,527,29</txtInImg>
+  <txtInImg page="0" instance="7">186,232,378,26</txtInImg>
+  <txtInImg page="0" instance="8">345,390,532,30</txtInImg>
+</moduleTextFile>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<textTypes>
+   <type name="Student_1" alias="Heading" max="1" edtPos="1" prnPos="0" wrdPos="0" trnScrPos="0" required="yes" labelBgColor="8F6678" labelColor="FFFFFF" font="Arial" fontSize="28" fixedFontSize="no" fontStyle="1" align="center" fontColor="000000" bullet="no" links="no"/>
+   <type name="Student_2" alias="Slide text" max="0" edtPos="2" prnPos="0" wrdPos="0" trnScrPos="0" required="yes" labelBgColor="5C788F" labelColor="FFFFFF" font="Arial" fontSize="10" fixedFontSize="no" fontStyle="0" align="left" fontColor="000000" bullet="no" links="yes"/>
+   <type name="Student_3" alias="Drilldown" max="0" edtPos="6" prnPos="1" wrdPos="1" trnScrPos="0" required="no" labelBgColor="A5594C" labelColor="FFFFFF" font="Arial" fontSize="10" fixedFontSize="no" fontStyle="0" align="left" fontColor="000000" bullet="no" links="yes"/>
+   <type name="Student_4" alias="Tooltip" max="0" edtPos="7" prnPos="0" wrdPos="0" trnScrPos="0" required="no" labelBgColor="000066" labelColor="FFFFFF" font="Arial" fontSize="10" fixedFontSize="no" fontStyle="0" align="left" fontColor="000000" bullet="no" links="no"/>
+   <type name="Student_5" alias="Flash dynamic text" max="0" edtPos="8" prnPos="0" wrdPos="0" trnScrPos="0" required="no" labelBgColor="222255" labelColor="FFFFFF" font="Arial" fontSize="10" fixedFontSize="yes" fontStyle="0" align="left" fontColor="000000" bullet="no" links="no"/>
+</textTypes>

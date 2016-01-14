@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<moduleTextFile>
+  <chunk textType="page" instance="1" vAlign="top">
+    <textFormat font="Arial" size="13" color="#000000" align="left" bold="true">How to apply sealant</textFormat>
+    <textFormat font="Arial" size="10" color="#000000" align="left" bold="true">
+      <br />
+      <br />
+    </textFormat>
+    <textFormat font="Arial" size="10" color="#000000" align="left">In this practice you shall add sealant in a correct way.<br /><br />You must use the correct sealant for each operation. It is one sealant for liners and another sealant for e.g. the transmission plate. These two types of sealant have different composition and shall not be used together or on the wrong surface.<br /><br />Place the sealant in the middle of the area to avoid leakage ... </textFormat>
+  </chunk>
+  <chunk textType="page" instance="2" vAlign="top">
+    <textFormat font="Arial" size="10" color="#000000" align="left">As shown here</textFormat>
+  </chunk>
+  <chunk textType="page" instance="3" vAlign="top">
+    <textFormat font="Arial" size="10" color="#000000" align="left" bold="true">Sealant on surface with track<br /></textFormat>
+    <textFormat font="Arial" size="10" color="#000000" align="left">Place the sealant close to the groove rather than close to the side. </textFormat>
+  </chunk>
+  <chunk textType="page" instance="4" vAlign="top">
+    <textFormat font="Arial" size="10" color="#000000" align="left">Here you can see what happens when you add the sealant the correct way.</textFormat>
+  </chunk>
+  <chunk textType="description" instance="1" vAlign="top">
+    <textFormat font="Arial" size="10" color="#000000" align="left">How to apply sealant </textFormat>
+  </chunk>
+  <chunk textType="keyPoints" instance="1" vAlign="top">
+    <textFormat font="Arial" size="10" color="#000000" align="left" bullet="true">Applying sealant <br />Blockage in the lubrication system<br /></textFormat>
+  </chunk>
+  <chunk textType="workingProcedure" instance="1" vAlign="top">
+    <textFormat font="Arial" size="10" color="#000000" align="left" bullet="true">Go through the information shown in the additional information below.<br />Use information from Impact regarding applying sealant on transmission cover or flywheel housing for the correct model.<br /></textFormat>
+  </chunk>
+  <chunk textType="additionalInformation" instance="1" vAlign="top">
+    <textFormat font="Arial" size="10" color="#000000" align="left">Use a transmission cover or flywheel housing.<br /><br />Apply a 2 mm thick bead of sealant as shown in the illustration, no more than 20 minutes before installation, and take special care to seal the contact points shown in the enlarged illustrations.<br /><br />As a practical example you can use two metal pieces (for example 9998624). <br />This practical information is to show what happens when you add the sealant correctly and incorrectly.<br /><br />1. If the sealant is placed in the middle of one of the metal pieces. and then after that put together with the other one and then opening again it is possible to show how the sealant have being spread out.<br />2. If the sealant is placed 3-5 mm away from the edge and put together with the other one it is possible to show how the sealant is leaking out outside the metal pieces. </textFormat>
+    <textFormat font="Arial" size="10" color="#000000" align="left" bold="true">This is not correct. </textFormat>
+    <textFormat font="Arial" size="10" color="#000000" align="left">If you add sealant the incorrect way the sealant will come into the lubrication system and cause failure the piston cooling valve/piston cooling system.<br />3. It is important that the participants add the correct amount of sealant and also in the correct place. Something to take into consideration is the time, remind the participants that the max. time is 20 min.<br />4. You can also work through no.1 and add too much silicon to show the results.</textFormat>
+  </chunk>
+</moduleTextFile>

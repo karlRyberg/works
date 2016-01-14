@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<moduleTextFile>
+  <chunk textType="description" instance="1" vAlign="top">
+    <textFormat font="Arial" size="10" color="#000000" align="left">Engine history</textFormat>
+  </chunk>
+  <chunk textType="page" instance="1" vAlign="top">
+    <textFormat font="Arial" size="13" color="#000000" align="left" bold="true">Engine history</textFormat>
+    <textFormat font="Arial" size="10" color="#000000" align="left" bold="true">
+      <br />
+    </textFormat>
+    <textFormat font="Arial" size="10" color="#000000" align="left">
+      <br />The first usable internal combustion engine was patented in 1875 by two Germans named N. A. Otto and E. Langen. It was a four-stroke engine that ran on gas, which meant that it had to have a gasworks close by in order to run. This engine was primarily used by small industries and craftsmen. Gas was eventually replaced by petrol, which meant that the engine could be moved and gained a much wider range of use. The Otto engine, or internal combustion engine as it is also known, has been further developed and is now found primarily in passenger cars and in certain light trucks.<br /><br />The diesel engine was named after its inventor, Rudolf Diesel, who patented this type of engine in 1892. The idea behind the new engine was that it could be run on fuel that was cheaper than petrol. The original idea was to run the engine on solid fuel, coal dust, but at an early stage of development, Rudolf Diesel converted to liquid fuel to power his engine, which is now generally called diesel oil. The original diesel engines were too big and cumbersome to be fitted in vehicles, and it was not until the beginning of the 1920s that several German truck manufacturers fitted a few of their vehicles with two-cylinder engines. These engines had an output of 22 kW (30 hp).<br /><br />In the mid 1930s, Volvo used an engine called the Hesselman engine, which was similar to the diesel engine. This engine type was also called a “semi-diesel”. It ran on diesel oil but had an electric ignition system. In 1946, Volvo supplied its first diesel powered truck. The engine had six cylinders, an output of 71 kW (96 hp) and a displacement of approximately 6 litres. <br />Present day diesel engines with a 6-litre displacement generate 184 kW (250 hp).<br /><br /></textFormat>
+    <textFormat font="Arial" size="10" color="#000000" align="left" bold="true">In recent decades, the diesel engine has been developed in three primary respects</textFormat>
+    <textFormat font="Arial" size="10" color="#000000" align="left">
+      <br />
+    </textFormat>
+    <textFormat font="Arial" size="10" color="#000000" align="left" bullet="true">Reduced environmental impact, which through the use of external components such as catalytic converters and exhaust filters, and through refined engine technology, enables modern engines to reduce harmful exhaust gases. <br />Improved economy through greater efficiency, i.e. better utilization of fuel, longer service intervals, and an extended service life. <br />Higher output through well developed engine technology and larger displacement. <br />The means of reaching these objectives have varied. Traditional diesel engine solutions have been refined, and new solutions have been developed.<br /></textFormat>
+  </chunk>
+  <chunk textType="keyPoints" instance="1" vAlign="top">
+    <textFormat font="Arial" size="10" color="#000000" align="left" bullet="true">History<br />Rudolf Diesel <br />Frenchman<br />Born 1858<br />1876 Otto patent 4-stroke engine<br />1892 patent diesel<br />Coaldust<br />First working engine = 4.5 tons - 20hp - 26% efficiency<br />1913 suicide on the way to England<br />The first engines were made for heavier vehicles<br />First Volvo truck 1928<br />Volvo truck engine 1946<br />Turbocharger 1954<br /></textFormat>
+  </chunk>
+  <chunk textType="additionalInformation" instance="1" vAlign="top">
+    <textFormat font="Arial" size="10" color="#000000" align="left">Go through the information shown in the additional information. </textFormat>
+  </chunk>
+  <chunk textType="workingProcedure" instance="1" vAlign="top">
+    <textFormat font="Arial" size="10" color="#000000" align="left">Talk with the participants about the engine history. </textFormat>
+  </chunk>
+</moduleTextFile>

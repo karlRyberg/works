@@ -1,0 +1,29 @@
+#Skin_menu {
+    position: relative;
+    padding: 0px;
+    margin: 0px;
+    width: 30%;
+    text-align: center;
+}
+
+.SkinSelectBtn {
+    padding: 10px;
+    margin: 16px;
+    display: block;
+    cursor: pointer;
+    font-family: Arial Unicode MS, Arial, Sans-Serif;
+    font-size: 1em;
+    color: #333333;
+    text-align:center;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    -o-text-overflow: ellipsis;
+    white-space: nowrap;
+    list-style: none;
+    border:1px solid #ccc;
+    border-radius:160px;
+}
+
+.SkinSelectBtn.hover {
+    color: white;
+}

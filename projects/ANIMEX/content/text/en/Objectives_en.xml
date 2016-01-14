@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<moduleTextFile>
+  <chunk textType="description" instance="1" vAlign="top">
+    <textFormat font="Arial" size="10" color="#000000" align="left">Course objectives</textFormat>
+  </chunk>
+  <chunk textType="page" instance="1" vAlign="top">
+    <textFormat font="Arial" size="13" color="#000000" align="left" bold="true">Course objectives</textFormat>
+    <textFormat font="Arial" size="10" color="#000000" align="left">
+      <br />
+      <br />
+    </textFormat>
+    <textFormat font="Arial" size="10" color="#000000" align="left" bold="true">After completing the course, you should be able to</textFormat>
+    <textFormat font="Arial" size="10" color="#000000" align="left">
+      <br />
+    </textFormat>
+    <textFormat font="Arial" size="10" color="#000000" align="left" bullet="true">Select and use appropriate tools and equipment.<br />Carry out jobs in a safe way, without causing damage to equipment, component, vehicle or person.<br />Check and adjust a range of engine components, e.g. valves, unit injectors, engine brake system, fuel systems, belts etc.<br />Verify proper operation after adjustment.<br /></textFormat>
+  </chunk>
+  <chunk textType="keyPoints" instance="1" vAlign="top">
+    <textFormat font="Arial" size="10" color="#000000" align="left" bullet="true">Course objectives<br />Check and adjust <br />Appropriate tools and equipment<br />Damage <br />Verify proper operation<br /></textFormat>
+  </chunk>
+  <chunk textType="workingProcedure" instance="1" vAlign="top">
+    <textFormat font="Arial" size="10" color="#000000" align="left">Go through Course objectives (overview).<br /></textFormat>
+  </chunk>
+  <chunk textType="additionalInformation" instance="1" vAlign="top">
+    <textFormat font="Arial" size="10" color="#000000" align="left">Course guide</textFormat>
+  </chunk>
+  <chunk textType="txtInImg" instance="1" vAlign="middle">
+    <textFormat font="Arial" size="34" color="#FFFFFF" align="center" bold="true">COURSE OBJECTIVES</textFormat>
+  </chunk>
+  <txtInImg page="1" instance="1">326,85,499,66</txtInImg>
+</moduleTextFile>

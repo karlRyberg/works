@@ -1,0 +1,111 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <!-- iPhone meta data -->
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" />
+    <!-- iPhone ICON -->
+    <link href="resources/icon/ironmark.png" sizes="57x57" rel="apple-touch-icon">
+    <!-- iPad ICON-->
+    <link href="resources/icon/ironmark-mid.png" sizes="72x72" rel="apple-touch-icon">
+    <!-- iPhone (Retina) ICON-->
+    <link href="resources/icon/ironmark-high.png" sizes="114x114" rel="apple-touch-icon">
+    <!-- iPad (Retina) ICON-->
+    <link href="resources/icon/ironmark-high.png" sizes="144x144" rel="apple-touch-icon">
+    <!--    <link rel="apple-touch-startup-image" href="resources/icon/splash.png" />-->
+    <meta name="apple-mobile-web-app-status-bar-style" content="black" />
+    <!-- STARTUP IMAGES -->
+    <!-- startup image for web apps - iPad - landscape (748x1024) 
+     Note: iPad landscape startup image has to be exactly 748x1024 pixels (portrait, with contents rotated).-->
+    <link rel="apple-touch-startup-image" href="resources/icon/splash-pad-landscape.png"
+        media="screen and (min-device-width: 481px) and (max-device-width: 1024px) and (orientation:landscape)" />
+    <!-- startup image for web apps - iPad - portrait (768x1004) -->
+    <link rel="apple-touch-startup-image" href="resources/icon/splash-pad-portrait.png"
+        media="screen and (min-device-width: 481px) and (max-device-width: 1024px) and (orientation:portrait)" />
+    <!-- startup image for web apps (320x460) -->
+    <link rel="apple-touch-startup-image" href="resources/icon/splash-phone.png" media="screen and (max-device-width: 320px)" />
+    <!-- startup image for web apps (640x960) -->
+    <link rel="apple-touch-startup-image" href="resources/icon/splash-phone-high.png"
+        media="screen and(max-device-width: 480px) and (-webkit-min-device-pixel-ratio: 2)" />
+    <link href="resources/css/reset.css" rel="stylesheet" type="text/css" />
+    <link href="resources/css/fonts.css" rel="stylesheet" type="text/css" />
+    <link href="resources/css/layout.css" rel="stylesheet" type="text/css" />
+</head>
+<body id="docoment-body">
+    <div id="stage">
+        <div id="io-work-area">
+            <div class="io-page" id="io-page-1">
+                <div id="truck-area">
+                </div>
+                <div id="truck-screen-header" class="header-panel">
+                    <a href="#page=io-page-2" id="view-selector-button" class="header-button">Change view</a>
+                    <h2 class="header-title" id="truck-screen-title">FH tractor, outside</h2>
+                </div>
+                <span id="explore-selector-panel"><a href="#page=io-page-3">
+                    <span id="explore-selector-label" class="text-button">
+                        Explore front of vehicle
+                    </span>
+                    <span id="explore-selector-button">
+                    </span>
+                </a></span>
+            </div>
+            <div class="io-page" id="io-page-2">
+               <div id="view-screen-header" class="header-panel">
+                    <a href="#page=io-page-1" class="header-button back-button">Back</a>
+                    <h2 class="header-title" id="view-screen-title">Change view</h2>
+               </div>
+            </div>
+            <div class="io-page" id="io-page-3">
+                   <div id="explore-screen-header" class="header-panel">
+                    <a href="#page=io-page-1" class="header-button back-button">Back</a>
+                    <h2 class="header-title" id="explore-screen-title">Explore, current area</h2>
+               </div>
+            </div>
+            <div class="io-page" id="io-page-4">
+                <a href="#page=io-page-1">111</a><br />
+                <a href="#page=io-page-2">222</a><br />
+                <a href="#page=io-page-3">333</a> <a href="javascript:up()">UP</a>
+            </div>
+        </div>
+        <div id="preloader">
+        </div>
+    </div>
+    <script src="resources/js/jquery/jquery-1.7.2.min.js" type="text/javascript"></script>
+    <script src="resources/js/util.js" type="text/javascript"></script>
+    <script src="resources/js/pageNavigation.js" type="text/javascript"></script>
+    <script src="resources/js/windowResize.js" type="text/javascript"></script>
+    <script src="resources/js/eventhandlers.js" type="text/javascript"></script>
+    <script src="resources/js/Trucks.js" type="text/javascript"></script>
+    <script src="resources/js/Truck.js" type="text/javascript"></script>
+    <script src="resources/js/UI.js" type="text/javascript"></script>
+    <script type="text/javascript">
+        windowResize.onBeginResize = function () {
+            Util.ShowLoader();
+        }
+        windowResize.onFinishedResize = function () {
+            pageNavigation.Update();
+            Truck.ReLoad(function () {
+                Truck.Align();
+                Util.HideLoader();
+            });
+        }
+
+
+
+        $(document).ready(function () {
+            window.resizeTo(320, 480);
+            Util.ShowLoader();
+            Truck.Load($('#truck-area'), Trucks.DefaultTruck, function () {
+                Truck.Align();
+                Util.HideLoader();
+                setTimeout(function () {
+                    UI.RevealExploreLabel(6);
+                }, 1 * 1000);
+
+            });
+        });
+
+    </script>
+</body>
+</html>

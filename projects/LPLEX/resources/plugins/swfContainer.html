@@ -1,0 +1,213 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <style type="text/css">
+        html, body
+        {
+            margin: 0px;
+            padding: 0px;
+            width: 100%;
+            height: 100%;
+        }
+        #SWFDomObject
+        {
+            margin: 0px;
+            padding: 0px;
+            width: 100%;
+            height: 100%; /*border:1px solid Lime;*/
+        }
+    </style>
+</head>
+<body>
+    <script type="text/javascript">
+
+ 
+        document.body.innerHTML = '';
+
+        var path = document.location.hash.substring(1);
+  
+        var scaleMode = parent.LOUISE && parent.LOUISE.Media && parent.LOUISE.Media.LoadedVideo && parent.LOUISE.Media.LoadedVideo == parent.LOUISE.Media.VideoType.flash ? 'noScale' : 'showAll';
+        
+        var obj = document.createElement('object');
+        obj.setAttribute('id', 'SWFDomObject');
+        obj.setAttribute('data', 'path');
+        obj.setAttribute('codebase', 'http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,0,0');
+        obj.setAttribute('width', '100%');
+        obj.setAttribute('height', '100%');
+
+
+        var param = document.createElement('param');
+        param.setAttribute('name', 'movie');
+        param.setAttribute('value', path);
+        obj.appendChild(param);
+
+        param = document.createElement('param');
+        param.setAttribute('name', 'allowScriptAccess');
+        param.setAttribute('value', 'always');
+        obj.appendChild(param);
+
+        param = document.createElement('param');
+        param.setAttribute('name', 'wmode');
+        param.setAttribute('value', 'transparent');
+        obj.appendChild(param);
+
+        param = document.createElement('param');
+        param.setAttribute('name', 'scale');
+        param.setAttribute('value', scaleMode);
+        obj.appendChild(param);
+
+        param = document.createElement('param');
+        param.setAttribute('name', 'quality');
+        param.setAttribute('value', 'high');
+        obj.appendChild(param);
+
+        param = document.createElement('param');
+        param.setAttribute('name', 'allowFullScreen');
+        param.setAttribute('value', 'true');
+        obj.appendChild(param);
+        
+
+        var embedtag = document.createElement('embed');
+        embedtag.setAttribute('width', '100%');
+        embedtag.setAttribute('height', '100%');
+        embedtag.setAttribute('src', path);
+        embedtag.setAttribute('wmode', 'transparent');
+        embedtag.setAttribute('scale', scaleMode);
+        embedtag.setAttribute('allowFullScreen', 'true');
+        embedtag.setAttribute('name', 'SWFDomObject');
+        embedtag.setAttribute('id', 'SWFDomObject');
+        embedtag.setAttribute('allowScriptAccess', 'always');
+        embedtag.setAttribute('type', 'application/x-shockwave-flash');
+        try {
+            obj.appendChild(embedtag);
+        }
+        catch (err) {
+            
+        }
+
+        document.body.appendChild(obj);
+
+        document.getElementById('SWFDomObject').setAttribute('classid', 'clsid:d27cdb6e-ae6d-11cf-96b8-444553540000');
+ 
+
+    </script>
+</body>
+<script type="text/javascript">
+
+    var swf = null;
+
+    function getSWFObject() {
+        var tmpSwf = document.getElementById('SWFDomObject');
+
+        if (typeof tmpSwf.SetVariable == 'undefined') {
+            tmpSwf = document.getElementsByTagName('embed')[0];
+        }
+        return tmpSwf;
+    }
+
+    function Load(callback, loadTries) {
+
+        loadTries = loadTries || 0;
+        
+        if (loadTries > 100) {
+            callback();
+            return
+        }
+
+        tmpSwf = getSWFObject();
+
+        var percent = 0;
+
+        try {
+            percent = tmpSwf.PercentLoaded();
+            if (percent < 0) {
+                var loadedFrames = tmpSwf.TGetProperty('/', 12);
+                var totalFrames = tmpSwf.TGetProperty('/', 5);
+                percent = Math.round((loadedFrames / totalFrames) * 100);
+            }
+        }
+        catch (err) {
+            callback();
+            return;
+        }
+
+        if (percent < 100) {
+            setTimeout(function () { Load(callback, ++loadTries) }, 100);
+            return;
+        }
+
+        document.getElementById('SWFDomObject').onfocus = function () {
+            if (parent.LOUISE.Media.SWF.ContentRequestedFocus) return;
+            parent.LOUISE.UI.FocusNavigation();
+        }
+
+        document.body.onfocus = function () {
+            if (parent.LOUISE.Media.SWF.ContentRequestedFocus) return;
+            parent.LOUISE.UI.FocusNavigation();
+        }
+
+        setTimeout(function () {
+            swf = tmpSwf;
+            callback();
+        }, 0);
+    }
+
+    // Route FLV player calls from parent to the SWF
+
+    function playPauseMovie() {
+        if (!swf) return;
+        swf.playPauseMovie();
+    }
+
+    function stopMovie() {
+        if (!swf) return;
+        swf.stopMovie();
+    }
+
+    function setSWFsalign(alignType) {
+        if (!swf) return;
+        swf.setSWFsalign(alignType);
+    }
+
+
+    // Route direct calls from SWF's to the parent window
+
+    function requestFocus() {
+        window.parent.LOUISE.Flash.Communication.requestFocus();
+    }
+
+    function releaseFocus() {
+        window.parent.LOUISE.UI.FocusNavigation();
+    }
+
+    function toggleFullscreen(onOff) {
+        window.parent.LOUISE.Flash.Communication.toggleFullscreen(onOff);
+    }
+
+    function actionAfterVideo(action) {
+        window.parent.LOUISE.Flash.Communication.Video.ActionAfterVideo(action);
+    }
+
+    function commandFromFlash(action) {
+        window.parent.LOUISE.Flash.Communication.CommandFromFlash(action);
+    }
+
+    function getCBTLang() {
+        return window.parent.LOUISE.Flash.Communication.getCBTLang();
+    }
+
+    function navPrev() {
+        window.parent.LOUISE.Flash.Communication.navPrev();
+    }
+
+    function navNext() {
+        window.parent.LOUISE.Flash.Communication.navNext();
+    }
+
+    function navLabel(index) {
+        window.parent.LOUISE.Flash.Communication.navLabel(index);
+    }
+
+</script>
+</html>

@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<moduleTextFile>
+  <chunk textType="page" instance="1" vAlign="top">
+    <textFormat font="Arial" size="13" color="#000000" align="left" bold="true">Fuel filter change</textFormat>
+    <textFormat font="Arial" size="10" color="#000000" align="left">
+      <br />
+      <br />It is essential that the injection system is protected from dirt. The smallest dirt particle will damage the pump pistons and pump cylinders, where clearance is just 0.001 to 0.002 mm. <br />A single strand of hair is about 20 times thicker than this tolerance. Several different filters are used in the injection equipment. <br /><br />When replacing the fuel filter it is important to take care of the environmental  issue as well, the used fuel and filter must be disposed in an proper way.</textFormat>
+  </chunk>
+  <chunk textType="description" instance="1" vAlign="top">
+    <textFormat font="Arial" size="10" color="#000000" align="left">Fuel filter change</textFormat>
+  </chunk>
+  <chunk textType="keyPoints" instance="1" vAlign="top">
+    <textFormat font="Arial" size="10" color="#000000" align="left" bullet="true">Old fuel<br />Dirt<br />Following service information<br />Read information on the filter<br />Take care of old fuel and filter in a correct way<br />Main filter<br />Pre filter<br />Water separator<br /></textFormat>
+  </chunk>
+  <chunk textType="workingProcedure" instance="1" vAlign="top">
+    <textFormat font="Arial" size="10" color="#000000" align="left">Following the correct Impact information about fuel filter replacement, following the correct vehicle ID.</textFormat>
+  </chunk>
+  <chunk textType="additionalInformation" instance="1" vAlign="top">
+    <textFormat font="Arial" size="10" color="#000000" align="left">Describe how to replace fuel filter, there is more than one alternative.<br />As an example you can use service information for FH and FE trucks to show the difference.<br /><br />Always use Volvo original fuel filter to be sure that the fuel system is working correctly.</textFormat>
+  </chunk>
+</moduleTextFile>

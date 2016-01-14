@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<moduleTextFile>
+  <chunk textType="page" instance="1" vAlign="top">
+    <textFormat font="Arial" size="13" color="#000000" align="left" bold="true">Screw tightening order</textFormat>
+    <textFormat font="Arial" size="10" color="#000000" align="left">
+      <br />
+      <br />If you have changed a wheel on a car, you probably know that the wheel nuts must be tightening in some order. While tightening with numbers of screws (e.g. cylinder head) stresses are spread on a surface. If we screw correctly a chance of warp appears. So called cross sequence screwing must be applied.</textFormat>
+  </chunk>
+  <chunk textType="page" instance="2" vAlign="top">
+    <textFormat font="Arial" size="10" color="#000000" align="left">For the cylinder head on e.g. D13 we have this tightening order.<br />As you can see, we are tightening from the centre and out in order not to jam the gasket.</textFormat>
+  </chunk>
+  <chunk textType="description" instance="1" vAlign="top">
+    <textFormat font="Arial" size="10" color="#000000" align="left">Screw tightening order</textFormat>
+  </chunk>
+  <chunk textType="keyPoints" instance="1" vAlign="top">
+    <textFormat font="Arial" size="10" color="#000000" align="left" bullet="true">Tightening order<br />Leakage etc.<br />Specifications<br /></textFormat>
+  </chunk>
+  <chunk textType="workingProcedure" instance="1" vAlign="top">
+    <textFormat font="Arial" size="10" color="#000000" align="left">Go through the information in the document “Additional information”, headline “Screw tightening order according to a schedule”.<br />Trainer can first show how to tighten in correct order on a camshaft or on a cylinder head. Let also the participants do this exercise.</textFormat>
+  </chunk>
+  <chunk textType="additionalInformation" instance="1" vAlign="top">
+    <textFormat font="Arial" size="10" color="#000000" align="left">This information can be different depending on which engine you are working on. Print out the correct information to the participants from Impact. </textFormat>
+  </chunk>
+</moduleTextFile>

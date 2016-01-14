@@ -1,0 +1,378 @@
+﻿#header-navigation-panel.skin-SS {
+    /*display: none;*/
+    background-image: none;
+    background-color: transparent;
+    height: 28px;
+    top: auto;
+    bottom: 0px;
+}
+
+#bread-crumbs.skin-SS {
+    display: none;
+}
+
+#header-title-panel.skin-SS {
+    background-color: #fff;
+    height: 100%;
+}
+
+
+#header-title.skin-SS {
+    padding: 0px 20px;
+    padding-right: 120px;
+    background-image: none;
+    background-repeat: no-repeat;
+    background-position: right center;
+    font-weight: normal;
+    color: #999;
+}
+
+    #header-title.skin-SS.rtl {
+        padding: 0px 20px;
+        padding-left: 120px;
+        background-position: left center;
+    }
+
+.SS-CBT-title {
+    color: #000;
+}
+
+#close-button.skin-SS {
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    width: 28px;
+    height: 28px;
+    background-image: url("Images/close-button.png");
+    cursor: pointer;
+}
+
+#close-button.rtl.skin-SS {
+    right: auto;
+    left: 0px;
+    background-image: url("images/close-button.png");
+}
+
+#close-button.hover.skin-SS {
+    background-position: 0px -28px;
+}
+
+#close-button.active.skin-SS {
+    background-position: 0px -56px;
+}
+
+#SS-course-btn-panel {
+    padding: 0px;
+}
+
+.SS-course-link-btn {
+    height: 28px;
+    box-sizing: border-box;
+    float: left;
+    border-bottom: 3px solid #ccc;
+    color: #666;
+    padding: 0px 10px;
+    font-family: Arial Unicode MS, Arial, Sans-Serif;
+    font-size: 0.8em;
+    line-height: 25px;
+    cursor: pointer;
+}
+
+.SS-course-link-btn.rtl {
+    float: right;
+}
+
+    .SS-course-link-btn.first {
+        padding-left: 20px;
+    }
+
+        .SS-course-link-btn.first.rtl {
+            padding-left: 10px;
+            padding-right: 20px;
+        }
+
+    .SS-course-link-btn.started {
+        border-color: #ffd080;
+    }
+
+    .SS-course-link-btn.done {
+        border-color: #c0cc66;
+    }
+
+    .SS-course-link-btn.active {
+        color: #000;
+        border-color: #1d8cff;
+    }
+
+
+#header-divider.skin-SS {
+    height: 1px;
+    top: 28px;
+    background-color: transparent;
+    background-image: url("Images/header-bottom-border.png");
+}
+
+#header-bottom-border.skin-SS {
+    top: auto;
+    bottom: 0px;
+    background-image: url("Images/header-bottom-border.png");
+}
+
+#drop-shade-top.skin-SS {
+    background-image: none;
+}
+
+
+
+
+#panel_bottom_container.skin-SS {
+    background-image: none;
+}
+
+#tools-panel.skin-SS {
+    top: 0px;
+    left: 0px;
+    height: 100%;
+    width: 68px;
+    background-color: transparent;
+    background-image: none;
+}
+
+#tools-panel.skin-SS.rtl{
+    left: auto;
+    right: 0px;
+}
+
+#nav-btn-panel.skin-SS {
+    top: 0px;
+    left: 0px;
+    width: 100%;
+    height: 100%;
+    background-image: none;
+    background-color: white;
+    margin-top: 3px;
+}
+
+#nav-btn-panel.rtl.skin-SS {
+    left: auto;
+    right: 0px;
+}
+
+#pen-btn-toggle.skin-SS {
+    display: none;
+}
+
+#pen-clear-btn.skin-SS {
+    display: none;
+}
+
+#trainer-txt-toggle-btn.skin-SS {
+    display: none;
+}
+
+#menu-toggle-btn.skin-SS {
+    background-image: url("Images/course-menu-button.png");
+    left: 10px;
+    right: auto;
+    top: auto;
+    bottom: 6px;
+}
+
+
+
+#nav-btn-next.skin-SS {
+    background-image: url("Images/nav-btn-next.png");
+    left: auto;
+    right: 10px;
+    top: auto;
+    bottom: 9px;
+}
+
+#nav-btn-next.skin-SS.rtl {
+    left: 76px;
+    right: auto;
+}
+
+#nav-btn-prev.skin-SS {
+    background-image: url("Images/nav-btn-prev.png");
+    left: auto;
+    right: 76px;
+    top: auto;
+    bottom: 9px;
+}
+
+#nav-btn-prev.skin-SS.rtl {
+    left: 10px;
+    right: auto;
+}
+
+#feedback-btn.skin-SS {
+    background-image: url("Images/comment-btn.png");
+    left: auto;
+    right: 142px;
+    top: auto;
+    bottom: 9px;
+}
+
+#feedback-btn.skin-SS.rtl {
+    left: 142px;
+    right: auto;
+}
+
+
+
+
+#nav-text-indicator.skin-SS {
+    visibility: hidden;
+}
+
+#progress-bar-Bg.skin-SS {
+    top: 0px;
+    left: 0px;
+    width: 100%;
+    height: 20px;
+    line-height: 20px;
+    text-align: left;
+    background-color: #ccc;
+}
+
+#progress-bar-Bg.skin-SS.rtl {
+    text-align: right;
+    direction: rtl;
+}
+
+#SS-prog-indicator {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    height: 20px;
+    width: 0px;
+    text-align: right;
+    line-height: 20px;
+    overflow: hidden;
+    color: white;
+    background-color: #1d8cff;
+    text-overflow: clip;
+}
+
+    #SS-prog-indicator.rtl {
+        left: auto;
+        right: 0px;
+        text-align: left;
+        direction: rtl;
+    }
+
+#progress-bar.skin-SS {
+    display: none;
+}
+
+#progress-bar-border.skin-SS {
+    visibility: hidden;
+}
+
+
+
+#footer-top-border.skin-SS {
+    display: none;
+}
+
+
+
+#drop-shade-bottom.skin-SS {
+    background-image: none;
+}
+
+
+.nav-info-text.skin-SS {
+    font-size: 0.7em;
+}
+
+#module-preview.skin-SS {
+    display: none;
+    height: 0px;
+}
+
+#search-bar.skin-SS {
+    display: none;
+    height: 0px;
+}
+
+#skin-SS-menu-shade.skin-SS {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    background-image: url("Images/drop-shade-right.png");
+    width: 24px;
+    height: 100%;
+    z-index: 10005;
+}
+
+#skin-SS-menu-shade.skin-SS.rtl {
+    left: auto;
+    right: 0px;
+    background-image: url("Images/drop-shade-left.png");
+}
+
+#cm-container.skin-SS {
+    margin: 10px 0px;
+}
+
+#panel_left_middle_container.skin-SS {
+    border: none;
+}
+
+#panel_course_sub_menu.skin-SS {
+    height: 100%;
+}
+
+.cm-cbt-navigation-btn.skin-SS {
+    display: none;
+}
+
+.cm-progress-cover.skin-SS {
+    position: absolute;
+    background-image: url("Images/cm-progress-cover.png");
+}
+
+.cm-progress-container.skin-SS {
+    position: relative;
+    background-image: url("Images/cm-progress-container.png");
+}
+
+.cm-progress-container.cm-rtl.skin-SS {
+    background-image: url("Images/cm-progress-container-rtl.png");
+}
+
+.cm-progress-color.skin-SS {
+    background-color: #1d8cff;
+    height: 10px;
+    top: 5px;
+    left: 3px;
+}
+
+.cm-progress-color.cm-rtl.skin-SS {
+    right: 3px;
+    left: auto;
+}
+
+.cm-progress-color.started.skin-SS {
+    background-color: #ffd080;
+}
+
+.cm-progress-color.done.skin-SS {
+    background-color: #c0cc66;
+}
+
+.cm-progress-color.active.skin-SS {
+    background-color: #1d8cff;
+}
+
+.cm-module-navigation-btn.btn-active.skin-SS {
+    font-style: normal;
+    color: inherit;
+    background-color: transparent;
+}
+
+.last-item-shade.skin-SS {
+    display: none;
+}

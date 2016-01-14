@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<moduleTextFile>
+  <chunk textType="page" instance="1" vAlign="top">
+    <textFormat font="Arial" size="13" color="#000000" align="left" bold="true">Oil filter change</textFormat>
+    <textFormat font="Arial" size="13" color="#000000" align="left">
+      <br />
+      <br />
+    </textFormat>
+    <textFormat font="Arial" size="10" color="#000000" align="left">When replacing the oil filter it is important to take care of the environmental  issue as well, the used oil and filter must be disposed in an proper way.<br /></textFormat>
+  </chunk>
+  <chunk textType="description" instance="1" vAlign="top">
+    <textFormat font="Arial" size="10" color="#000000" align="left">Oil filter change</textFormat>
+  </chunk>
+  <chunk textType="keyPoints" instance="1" vAlign="top">
+    <textFormat font="Arial" size="10" color="#000000" align="left" bullet="true">Warm oil <br />Puncture the filter before you start removing the filter<br />Follow information on the filter and Impact<br />Take care of old oil and filter in a correct way<br /></textFormat>
+  </chunk>
+  <chunk textType="workingProcedure" instance="1" vAlign="top">
+    <textFormat font="Arial" size="10" color="#000000" align="left">Go through the information below. Show the participants how they shall do it before they do it. </textFormat>
+  </chunk>
+  <chunk textType="additionalInformation" instance="1" vAlign="top">
+    <textFormat font="Arial" size="10" color="#000000" align="left" bold="true">
+      <br />Oil change, generally</textFormat>
+    <textFormat font="Arial" size="10" color="#000000" align="left">
+      <br />1. Warm up the engine<br />2. Puncture  the filter before it is removed <br />3. Tap off  the old oil<br />4. Loose the oil filter<br />5. Add a thin layer of oil on the rubber sealant on the new oil filter<br />6. Fill up the new oil filter with oil before it is mounted. This makes the oil pressure to rise more quickly when the engine is starting. <br />7. The oil filter </textFormat>
+    <textFormat font="Arial" size="10" color="#000000" align="left" underline="true">must</textFormat>
+    <textFormat font="Arial" size="10" color="#000000" align="left"> only be hand tighted. <br />8. Fill up oil in the engine to the correct level.<br />9. Start the engine and check for leakage around the filter and the oil plug. <br />10. Turn off the engine and check the oil level on the dip stick. Add oil if necessary. <br />11. Old oil and filters should be desposed and stored according to the local waste management direction.<br /><br />This information can be different depending on which engine you are working on, following Impact. </textFormat>
+  </chunk>
+</moduleTextFile>
